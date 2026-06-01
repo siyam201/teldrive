@@ -11,7 +11,7 @@ folder-size-interval = '2h'
 locker-instance = 'cron-locker'
 
 [db]
-data-source = ''
+data-source = '​​​postgresql://postgres:74Ja0PyjqpKSYu4j@db.cynxyivmaqyonznkdlkl.supabase.co:5432/postgres'
 log-level = 'info'
 prepare-stmt = true
 
